@@ -22,6 +22,7 @@ Hi there👋! I'm **Jiaqi Wei**, a Ph.D. student at Zhejiang University, where I
 My core research interests lie at the fascinating intersection of **LLM**, **Agent** and **AI for Science**. Feel free to reach out if you'd like to discuss potential collaborations or share ideas!
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 1 paper has been accepted by ICML'2026.
 - *2026.02*: &nbsp;🎉🎉 1 paper has been accepted by CVPR'2026 Findings.
 - *2025.10*: &nbsp;🎉🎉 1 paper has been accepted by EMNLP'2025 NewSumm Workshop.
 - *2025.09*: &nbsp;🎉🎉 3 papers have been accepted by NeurIPS'2025.
@@ -37,37 +38,13 @@ My core research interests lie at the fascinating intersection of **LLM**, **Age
 **&dagger; means Equal Contribution**  
 
 <div>
-<dd><strong> Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing
+<dd><strong> When to Think, When to Speak: Learning Disclosure Policies for Large Language Model Reasoning
 </strong></dd>
 <dd>
-Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu&dagger;, Sheng Xu, Nanqing Dong, Zhiqiang Gao, Siqi Sun
+<strong><u>Jiaqi Wei&dagger;</u></strong>, Xuehang Guo&dagger;, Pengfei Yu&dagger;, Xiang Zhang, Wanli Ouyang, Siqi Sun, Qingyun Wang, Chenyu You
 </dd>
   <dd>
-  <a href="https://arxiv.org/pdf/2506.13485"><span style='color:red'>[ICML'2025]</span></a>
-  </dd>
-</div>
-<br>
-
-<div>
-<dd><strong> Universal Biological Sequence Reranking for Improved De Novo Peptide Sequencing
-</strong></dd>
-<dd>
-Zijie Qiu&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Xiang Zhang&dagger;, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, Nanqing Dong, Siqi Sun
-</dd>
-  <dd>
-    <a href="https://arxiv.org/pdf/2505.17552"><span style="color:red"> [ICML'2025]</span> </a>
-    </dd>
-</div>
-<br>
-
-<div>
-<dd><strong> MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing
-</strong></dd>
-<dd>
-A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yi Chen, Nanqin Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo
-</dd>
-  <dd>
-    <a href="https://www.biorxiv.org/content/biorxiv/early/2025/06/26/2025.06.20.660691.full.pdf"><span style="color:red">[Nature Methods Under Review]</span></a>
+    <a href=""><span style="color:red">[ICML'2026]</span></a>
     </dd>
 </div>
 <br>
@@ -103,6 +80,42 @@ Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu, Sheng
 </dd>
   <dd>
     <a href="https://arxiv.org/pdf/2510.08169"><span style="color:red">[NeurIPS'2025]</span></a>
+    </dd>
+</div>
+<br>
+
+<div>
+<dd><strong> Curriculum Learning for Biological Sequence Prediction: The Case of De Novo Peptide Sequencing
+</strong></dd>
+<dd>
+Xiang Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Zijie Qiu&dagger;, Sheng Xu, Nanqing Dong, Zhiqiang Gao, Siqi Sun
+</dd>
+  <dd>
+  <a href="https://arxiv.org/pdf/2506.13485"><span style='color:red'>[ICML'2025]</span></a>
+  </dd>
+</div>
+<br>
+
+<div>
+<dd><strong> Universal Biological Sequence Reranking for Improved De Novo Peptide Sequencing
+</strong></dd>
+<dd>
+Zijie Qiu&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Xiang Zhang&dagger;, Sheng Xu, Kai Zou, Zhi Jin, Zhiqiang Gao, Nanqing Dong, Siqi Sun
+</dd>
+  <dd>
+    <a href="https://arxiv.org/pdf/2505.17552"><span style="color:red"> [ICML'2025]</span> </a>
+    </dd>
+</div>
+<br>
+
+<div>
+<dd><strong> MassNet: billion-scale AI-friendly mass spectral corpus enables robust de novo peptide sequencing
+</strong></dd>
+<dd>
+A Jun&dagger;, Xiang Zhang&dagger;, Xiaofan Zhang&dagger;, <strong><u>Jiaqi Wei&dagger;</u></strong>, Te Zhang, Yamin Deng, Pu Liu, Zongxiang Nie, Yi Chen, Nanqin Dong, Zhiqiang Gao, Siqi Sun, Tiannan Guo
+</dd>
+  <dd>
+    <a href="https://www.biorxiv.org/content/biorxiv/early/2025/06/26/2025.06.20.660691.full.pdf"><span style="color:red">[Nature Methods Under Review]</span></a>
     </dd>
 </div>
 <br>
