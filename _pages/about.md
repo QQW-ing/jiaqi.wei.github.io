@@ -44,7 +44,7 @@ My core research interests lie at the fascinating intersection of **LLM**, **Age
 <strong><u>Jiaqi Wei&dagger;</u></strong>, Xuehang Guo&dagger;, Pengfei Yu&dagger;, Xiang Zhang, Wanli Ouyang, Siqi Sun, Qingyun Wang, Chenyu You
 </dd>
   <dd>
-    <a href=""><span style="color:red">[ICML'2026]</span></a>
+    <a href="https://arxiv.org/pdf/2605.03314"><span style="color:red">[ICML'2026]</span></a>
     </dd>
 </div>
 <br>
